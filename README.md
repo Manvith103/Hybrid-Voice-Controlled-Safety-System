@@ -61,7 +61,25 @@ The system combines Bluetooth voice commands with manual push-button operation t
 
 ## 📷 Project Demonstration
 
-Project photographs, circuit diagrams and demonstration videos will be added here.
+### Circuit Diagram
+
+![Circuit Diagram](Circuit_Diagram/Circuit Diagram.png)
+
+### Hardware Prototype
+
+![Project Prototype](Project Prototype.png)
+
+---
+
+## 📌 Project Status
+
+Completed - Educational Prototype
+
+## 👨‍💻 Developer
+
+**Kasthuri Manvith**
+
+[GitHub](https://github.com/Manvith103) | [LinkedIn](https://www.linkedin.com/in/manvith-kasthuri/)
 
 ## 👨‍🎓 Project Details
 
