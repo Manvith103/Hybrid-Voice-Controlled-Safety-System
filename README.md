@@ -59,28 +59,6 @@ The system combines Bluetooth voice commands with manual push-button operation t
 - Servo Motor Control
 - Hardware Interfacing
 
-## 📷 Project Demonstration
-
-### Circuit Diagram
-
-![Circuit Diagram](Circuit_Diagram/Circuit Diagram.png)
-
-### Hardware Prototype
-
-![Project Prototype](Project Prototype.png)
-
----
-
-## 📌 Project Status
-
-Completed - Educational Prototype
-
-## 👨‍💻 Developer
-
-**Kasthuri Manvith**
-
-[GitHub](https://github.com/Manvith103) | [LinkedIn](https://www.linkedin.com/in/manvith-kasthuri/)
-
 ## 👨‍🎓 Project Details
 
 **Domain:** Electrical and Electronics Engineering
@@ -89,6 +67,9 @@ Completed - Educational Prototype
 
 **Developer:** Kasthuri Manvith
 
+**Project Status:** Completed - Educational Prototype
+
+[GitHub](https://github.com/Manvith103) | [LinkedIn](https://www.linkedin.com/in/manvith-kasthuri/)
 ---
 
 *This is an educational prototype. It is not certified for real high-voltage isolation or protection. Actual electrical isolation requires appropriately rated equipment and qualified engineering implementation.*
